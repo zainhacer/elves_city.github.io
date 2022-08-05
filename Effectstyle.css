@@ -1,0 +1,11 @@
+@keyframes slide{
+    from{
+        margin-top: -100px;
+        width: 100px;
+    }
+    to{
+        margin-top:0px;
+        width: 50px;
+    }
+
+}
