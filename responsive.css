@@ -1340,7 +1340,7 @@ nav ul li a{
     height: 21px;
     width: 80px;
     position: relative;
-    right: -270px;
+    right: -160px;
     top: -20px;
     background-color: black;
     text-align: center;
@@ -1706,7 +1706,7 @@ font-size: 55px;
         align-items: center;
         /* display: flex; */
         position: relative;
-        right: -100px;
+        right: -80px;
         top: 13px;
         margin: 23px;
         margin-right: 40px;
